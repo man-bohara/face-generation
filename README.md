@@ -34,6 +34,8 @@ In the training process both models get training and are optimized. Then we can 
 
 ### Generator
 
+![alt text](https://github.com/man-bohara/face-generation/blob/master/Generator.png)
+
 
 ## Training
 Its recommended to train this model on GPU as it takes long time to train this model on large images. You can use utilize GPU provided by AWS cloud.
