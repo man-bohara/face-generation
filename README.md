@@ -29,6 +29,8 @@ In the training process both models get training and are optimized. Then we can 
 ### Discriminator
 
 
+![alt text](https://github.com/man-bohara/face-generation/blob/master/Discriminator.png)
+
 
 ### Generator
 
